@@ -44,7 +44,7 @@
   </a>
 
   <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://www.linkedin.com/in/javid-shabin-9274b2305/" />
   </a>
 
   <a href="https://x.com/mike_devlogs">
