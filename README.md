@@ -28,7 +28,7 @@
 
 <p align="left">
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/javidShabin">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
